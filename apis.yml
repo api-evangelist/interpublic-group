@@ -1,4 +1,6 @@
 aid: interpublic-group
+tags:
+  - Fortune 500
 url: https://raw.githubusercontent.com/api-evangelist/interpublic-group/refs/heads/main/apis.yml
 name: Interpublic Group
 type: Index
