@@ -1,7 +1,9 @@
 ---
 title: 'Interpublic Group stock (US4606901001): advertising giant ...'
 url: https://www.ad-hoc-news.de/boerse/news/ueberblick/interpublic-group-stock-us4606901001-advertising-giant-navigates-ai/69369116
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Interpublic Group" press release artificial intelligence'
 position: 5
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: Interpublic is excited to name Yaniv Sarig Global Head of ...
 url: https://www.facebook.com/InterpublicGroup/posts/interpublic-is-excited-to-name-yaniv-sarig-global-head-of-ai-commerce-reinforcin/1053987840085402/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Interpublic Group" press release artificial intelligence'
 position: 2
 source: serpapi-google

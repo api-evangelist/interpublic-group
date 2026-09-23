@@ -1,7 +1,9 @@
 ---
 title: Omnicom Works With Google To Create AI Agents
 url: https://www.mediapost.com/publications/article/411787/omnicom-works-with-google-to-create-ai-agents.html?edition=141159
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Interpublic Group" press release artificial intelligence'
 position: 3
 source: serpapi-google

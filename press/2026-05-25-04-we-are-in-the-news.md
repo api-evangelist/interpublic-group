@@ -1,7 +1,9 @@
 ---
 title: We are in the News
 url: https://www.intelligencenode.com/in-the-news/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Interpublic Group" press release artificial intelligence'
 position: 4
 source: serpapi-google

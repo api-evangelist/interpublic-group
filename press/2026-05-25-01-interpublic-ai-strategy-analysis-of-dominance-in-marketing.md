@@ -1,7 +1,9 @@
 ---
 title: 'Interpublic AI Strategy: Analysis of Dominance in Marketing ...'
 url: https://www.klover.ai/interpublic_ai_strategy_analysis_of_dominance_in_marketing_communications_ai/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Interpublic Group" press release artificial intelligence'
 position: 1
 source: serpapi-google
